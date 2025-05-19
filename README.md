@@ -1,3 +1,1 @@
-## Hi there 👋
-- 🔭 I’m currently working on Office
-- 🌱 I’m currently learning excel with IA
+Olá este é meu exercicio do material de estudos disponibilizado pela plataforma DIO, baseado em calculos de investimentos.
